@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "date": "2024-03-16T00:00:00Z",
+    "tag": "Engineering",
+    "feature": true,
+    "title": "Understanding Machine Learning Models",
+    "slug": "ml-models",
+    "cover": "https://picsum.photos/800/450?random=1",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Understanding Machine Learning Models.",
+    "body": "\n       # Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide.\n        "
+  },
+  {
+    "id": 2,
+    "date": "2024-02-14T00:00:00Z",
+    "tag": "Data Science",
+    "feature": true,
+    "title": "Statistical Inference in Python",
+    "slug": "statistical-inference-python",
+    "cover": "https://picsum.photos/800/450?random=2",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Statistical Inference in Python.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 3,
+    "date": "2023-11-21T00:00:00Z",
+    "tag": "Design",
+    "feature": true,
+    "title": "Designing Accessible Interfaces",
+    "slug": "accessible-ui-design",
+    "cover": "https://picsum.photos/800/450?random=3",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Designing Accessible Interfaces.",
+    "body": "\n        # Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide.\n        "
+  },
+  {
+    "id": 4,
+    "date": "2024-05-21T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Social Policy and Data Analytics",
+    "slug": "social-policy-data",
+    "cover": "https://picsum.photos/800/450?random=4",
+    "authors": [
+      {
+        "name": "Olivia Martinez",
+        "avatar": "/static/images/avatar/10.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Social Policy and Data Analytics.",
+    "body": "\n        # Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide.\n        "
+  },
+  {
+    "id": 5,
+    "date": "2023-03-21T00:00:00Z",
+    "tag": "Statistics",
+    "feature": false,
+    "title": "Political Data Visualization",
+    "slug": "political-data-viz",
+    "cover": "https://picsum.photos/800/450?random=5",
+    "authors": [
+      {
+        "name": "Olivia Martinez",
+        "avatar": "/static/images/avatar/10.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Political Data Visualization.",
+    "body": "\n    # Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide."
+  },
+  {
+    "id": 6,
+    "date": "2024-09-20T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Advanced CSS Grid Techniques",
+    "slug": "css-grid-techniques",
+    "cover": "https://picsum.photos/800/450?random=6",
+    "authors": [
+      {
+        "name": "Olivia Martinez",
+        "avatar": "/static/images/avatar/10.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Advanced CSS Grid Techniques.",
+    "body": "# Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide."
+  },
+  {
+    "id": 7,
+    "date": "2023-09-29T00:00:00Z",
+    "tag": "Data Science",
+    "feature": false,
+    "title": "Building Scalable APIs with FastAPI",
+    "slug": "fastapi-scalable-apis",
+    "cover": "https://picsum.photos/800/450?random=7",
+    "authors": [
+      {
+        "name": "Olivia Martinez",
+        "avatar": "/static/images/avatar/10.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Building Scalable APIs with FastAPI.",
+    "body": "# Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide."
+  },
+  {
+    "id": 8,
+    "date": "2024-03-01T00:00:00Z",
+    "tag": "Politics",
+    "feature": false,
+    "title": "Bayesian Statistics for Beginners",
+    "slug": "bayesian-statistics",
+    "cover": "https://picsum.photos/800/450?random=8",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Bayesian Statistics for Beginners.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 9,
+    "date": "2024-06-16T00:00:00Z",
+    "tag": "Statistics",
+    "feature": false,
+    "title": "The Ethics of AI in Welfare",
+    "slug": "ethics-ai-welfare",
+    "cover": "https://picsum.photos/800/450?random=9",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on The Ethics of AI in Welfare.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 10,
+    "date": "2025-02-05T00:00:00Z",
+    "tag": "Social Welfare",
+    "feature": false,
+    "title": "How to Conduct A/B Testing",
+    "slug": "ab-testing-guide",
+    "cover": "https://picsum.photos/800/450?random=10",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on How to Conduct A/B Testing.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 11,
+    "date": "2024-05-12T00:00:00Z",
+    "tag": "Data Science",
+    "feature": false,
+    "title": "Developing Secure Web Apps",
+    "slug": "secure-web-apps",
+    "cover": "https://picsum.photos/800/450?random=11",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Developing Secure Web Apps.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 12,
+    "date": "2024-04-22T00:00:00Z",
+    "tag": "Social Welfare",
+    "feature": false,
+    "title": "The Role of Big Data in Politics",
+    "slug": "big-data-politics",
+    "cover": "https://picsum.photos/800/450?random=12",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on The Role of Big Data in Politics.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 13,
+    "date": "2024-04-15T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Optimizing SQL Queries for Performance",
+    "slug": "sql-performance-tips",
+    "cover": "https://picsum.photos/800/450?random=13",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Optimizing SQL Queries for Performance.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 14,
+    "date": "2025-01-08T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Introduction to Reinforcement Learning",
+    "slug": "reinforcement-learning-intro",
+    "cover": "https://picsum.photos/800/450?random=14",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Introduction to Reinforcement Learning.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 15,
+    "date": "2023-09-12T00:00:00Z",
+    "tag": "Data Science",
+    "feature": false,
+    "title": "UX Research Methods for Startups",
+    "slug": "ux-research-methods",
+    "cover": "https://picsum.photos/800/450?random=15",
+    "authors": [
+      {
+        "name": "Sarah Lee",
+        "avatar": "/static/images/avatar/8.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on UX Research Methods for Startups.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 16,
+    "date": "2023-06-21T00:00:00Z",
+    "tag": "Politics",
+    "feature": false,
+    "title": "Open Source Contributions for Engineers",
+    "slug": "open-source-engineering",
+    "cover": "https://picsum.photos/800/450?random=16",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Open Source Contributions for Engineers.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 17,
+    "date": "2025-01-18T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Data Pipelines with Apache Airflow",
+    "slug": "data-pipelines-airflow",
+    "cover": "https://picsum.photos/800/450?random=17",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Data Pipelines with Apache Airflow.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 18,
+    "date": "2023-07-25T00:00:00Z",
+    "tag": "Design",
+    "feature": false,
+    "title": "The Future of Social Welfare Tech",
+    "slug": "future-social-welfare-tech",
+    "cover": "https://picsum.photos/800/450?random=18",
+    "authors": [
+      {
+        "name": "Sarah Lee",
+        "avatar": "/static/images/avatar/8.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on The Future of Social Welfare Tech.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 19,
+    "date": "2024-10-16T00:00:00Z",
+    "tag": "Data Science",
+    "feature": false,
+    "title": "Best Practices in Data Engineering",
+    "slug": "data-engineering-practices",
+    "cover": "https://picsum.photos/800/450?random=19",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Best Practices in Data Engineering.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 20,
+    "date": "2024-07-05T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Leveraging GraphQL for Modern Apps",
+    "slug": "graphql-modern-apps",
+    "cover": "https://picsum.photos/800/450?random=20",
+    "authors": [
+      {
+        "name": "Sarah Lee",
+        "avatar": "/static/images/avatar/8.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Leveraging GraphQL for Modern Apps.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 1,
+    "date": "2024-03-16T00:00:00Z",
+    "tag": "Engineering",
+    "feature": true,
+    "title": "Understanding Machine Learning Models",
+    "slug": "ml-models",
+    "cover": "https://picsum.photos/800/450?random=1",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Understanding Machine Learning Models.",
+    "body": "\n       # Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide.\n        "
+  },
+  {
+    "id": 2,
+    "date": "2024-02-14T00:00:00Z",
+    "tag": "Data Science",
+    "feature": true,
+    "title": "Statistical Inference in Python",
+    "slug": "statistical-inference-python",
+    "cover": "https://picsum.photos/800/450?random=2",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Statistical Inference in Python.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 3,
+    "date": "2023-11-21T00:00:00Z",
+    "tag": "Design",
+    "feature": true,
+    "title": "Designing Accessible Interfaces",
+    "slug": "accessible-ui-design",
+    "cover": "https://picsum.photos/800/450?random=3",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Designing Accessible Interfaces.",
+    "body": "\n        # Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide.\n        "
+  },
+  {
+    "id": 4,
+    "date": "2024-05-21T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Social Policy and Data Analytics",
+    "slug": "social-policy-data",
+    "cover": "https://picsum.photos/800/450?random=4",
+    "authors": [
+      {
+        "name": "Olivia Martinez",
+        "avatar": "/static/images/avatar/10.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Social Policy and Data Analytics.",
+    "body": "\n        # Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide.\n        "
+  },
+  {
+    "id": 5,
+    "date": "2023-03-21T00:00:00Z",
+    "tag": "Statistics",
+    "feature": false,
+    "title": "Political Data Visualization",
+    "slug": "political-data-viz",
+    "cover": "https://picsum.photos/800/450?random=5",
+    "authors": [
+      {
+        "name": "Olivia Martinez",
+        "avatar": "/static/images/avatar/10.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Political Data Visualization.",
+    "body": "\n    # Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide."
+  },
+  {
+    "id": 6,
+    "date": "2024-09-20T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Advanced CSS Grid Techniques",
+    "slug": "css-grid-techniques",
+    "cover": "https://picsum.photos/800/450?random=6",
+    "authors": [
+      {
+        "name": "Olivia Martinez",
+        "avatar": "/static/images/avatar/10.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Advanced CSS Grid Techniques.",
+    "body": "# Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide."
+  },
+  {
+    "id": 7,
+    "date": "2023-09-29T00:00:00Z",
+    "tag": "Data Science",
+    "feature": false,
+    "title": "Building Scalable APIs with FastAPI",
+    "slug": "fastapi-scalable-apis",
+    "cover": "https://picsum.photos/800/450?random=7",
+    "authors": [
+      {
+        "name": "Olivia Martinez",
+        "avatar": "/static/images/avatar/10.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Building Scalable APIs with FastAPI.",
+    "body": "# Caros ut cladis erigitur ardet\n\n## Fata fata aras parentes paratas actis\n\nLorem markdownum voluit omnia lapidum urna vulnera pretium voces! Iram fare\numbras ipsaque de tenebat salutant numquam Pelasgos feret. Natus iter victores\nsordidus finiat resectas corripuit pingit oculos pulsat.\n\n1. Post campus sanguisque translata pectora\n2. Nil consedit illo nec\n3. Ulla poma\n4. Nata ipsa fremebant\n\nPeregrinis deorum [auctus](http://achilli.org/satisauras) percussit austri, tum\nunda plus litora favoni ara studiisque doluere. Et est Orionis lucifer Alcides:\ntriplicis obscurum eligit: qui, et fuerat admovet, iam. Nec deos, dum mea omnia\nquod aurato Quirini tabularia videres. Cedunt Pirithous in arduus Hecate.\n\n## Alis contineat\n\nNostra inplent scopulis; sint ossaque saepe forte aquas fletu patris, equo. De\nconpositas spectemur pateat [vinci](http://dilecte.io/quoque). Remorata fulget\ningens habebat caietam imbribus. Ibi pomis; tela ligno celat verbere habuisse\n[nautae similes agmine](http://trado.com/mevel) et decor ripas roboribusque\nvelit, arva. Monstra patrio, equis in ut sunt oves *arvis per ordine* malorum\nHelicen.\n\n    cursorCssDefinition *= file_system_troll;\n    pcArpBinary.booleanDuplexHdtv(koffice_cpm, graymailSystray);\n    if (standbyDiskDrop(modemGifSoap, andDmaCamera, drive_enterprise) >=\n            insertionYahoo + cardCommerce) {\n        ssd.yottabyteUddi(telnetVram);\n    } else {\n        donationwareDenialIn += hypertext_finder;\n    }\n    if (port + 1 >= 771304) {\n        white(file, dac);\n        twitterVpiScareware += box(ctr_log / access, delVdsl, kvm);\n        dmaUserComputer /= floppy + barGigabyteScroll;\n    } else {\n        reciprocal += architecture_matrix_e.card(host_mebibyte_ipod) + t;\n        dataTemplateZebibyte *= nullBrouter;\n        gnuHardReality = cybersquatter_microcomputer_it;\n    }\n    zebibyte += 68 + bankruptcyBusFull + 4;\n\n## Non mihi tactuque tauri illa ignavi tu\n\n**Cruor sui** riget creati monet, famamque tibi velit deceptam latus trames\nPriamusque. Inconsolabile pectore sua in Cerberon inque retinere [sed\nurnam](http://meritum.com/quamquam.html) stridore. Iacentes plenaque dextra nec\nlitoris ponere frangitur pariter inamabile si iras! Sanctaque fugitque\nmonitusque tamen abest nebulas, Aeaciden et ardua ignobilitate quae fugit\nfecundaque semper discrimina terga pieros?\n\n- Simul dicet pudor sanguine huius vel\n- Iter et longos solito pinum delapsa\n- Quae miserum inpendit\n- Talisque notasti\n\nAncora in condar quicquam ab **morte**, potero. Amor invide."
+  },
+  {
+    "id": 8,
+    "date": "2024-03-01T00:00:00Z",
+    "tag": "Politics",
+    "feature": false,
+    "title": "Bayesian Statistics for Beginners",
+    "slug": "bayesian-statistics",
+    "cover": "https://picsum.photos/800/450?random=8",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Bayesian Statistics for Beginners.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 9,
+    "date": "2024-06-16T00:00:00Z",
+    "tag": "Statistics",
+    "feature": false,
+    "title": "The Ethics of AI in Welfare",
+    "slug": "ethics-ai-welfare",
+    "cover": "https://picsum.photos/800/450?random=9",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on The Ethics of AI in Welfare.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 10,
+    "date": "2025-02-05T00:00:00Z",
+    "tag": "Social Welfare",
+    "feature": false,
+    "title": "How to Conduct A/B Testing",
+    "slug": "ab-testing-guide",
+    "cover": "https://picsum.photos/800/450?random=10",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on How to Conduct A/B Testing.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 11,
+    "date": "2024-05-12T00:00:00Z",
+    "tag": "Data Science",
+    "feature": false,
+    "title": "Developing Secure Web Apps",
+    "slug": "secure-web-apps",
+    "cover": "https://picsum.photos/800/450?random=11",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Developing Secure Web Apps.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 12,
+    "date": "2024-04-22T00:00:00Z",
+    "tag": "Social Welfare",
+    "feature": false,
+    "title": "The Role of Big Data in Politics",
+    "slug": "big-data-politics",
+    "cover": "https://picsum.photos/800/450?random=12",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on The Role of Big Data in Politics.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 13,
+    "date": "2024-04-15T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Optimizing SQL Queries for Performance",
+    "slug": "sql-performance-tips",
+    "cover": "https://picsum.photos/800/450?random=13",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Optimizing SQL Queries for Performance.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 14,
+    "date": "2025-01-08T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Introduction to Reinforcement Learning",
+    "slug": "reinforcement-learning-intro",
+    "cover": "https://picsum.photos/800/450?random=14",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Introduction to Reinforcement Learning.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 15,
+    "date": "2023-09-12T00:00:00Z",
+    "tag": "Data Science",
+    "feature": false,
+    "title": "UX Research Methods for Startups",
+    "slug": "ux-research-methods",
+    "cover": "https://picsum.photos/800/450?random=15",
+    "authors": [
+      {
+        "name": "Sarah Lee",
+        "avatar": "/static/images/avatar/8.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on UX Research Methods for Startups.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 16,
+    "date": "2023-06-21T00:00:00Z",
+    "tag": "Politics",
+    "feature": false,
+    "title": "Open Source Contributions for Engineers",
+    "slug": "open-source-engineering",
+    "cover": "https://picsum.photos/800/450?random=16",
+    "authors": [
+      {
+        "name": "Michael Thompson",
+        "avatar": "/static/images/avatar/7.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Open Source Contributions for Engineers.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 17,
+    "date": "2025-01-18T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Data Pipelines with Apache Airflow",
+    "slug": "data-pipelines-airflow",
+    "cover": "https://picsum.photos/800/450?random=17",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Data Pipelines with Apache Airflow.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 18,
+    "date": "2023-07-25T00:00:00Z",
+    "tag": "Design",
+    "feature": false,
+    "title": "The Future of Social Welfare Tech",
+    "slug": "future-social-welfare-tech",
+    "cover": "https://picsum.photos/800/450?random=18",
+    "authors": [
+      {
+        "name": "Sarah Lee",
+        "avatar": "/static/images/avatar/8.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on The Future of Social Welfare Tech.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 19,
+    "date": "2024-10-16T00:00:00Z",
+    "tag": "Data Science",
+    "feature": false,
+    "title": "Best Practices in Data Engineering",
+    "slug": "data-engineering-practices",
+    "cover": "https://picsum.photos/800/450?random=19",
+    "authors": [
+      {
+        "name": "James Carter",
+        "avatar": "/static/images/avatar/9.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Best Practices in Data Engineering.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  },
+  {
+    "id": 20,
+    "date": "2024-07-05T00:00:00Z",
+    "tag": "Engineering",
+    "feature": false,
+    "title": "Leveraging GraphQL for Modern Apps",
+    "slug": "graphql-modern-apps",
+    "cover": "https://picsum.photos/800/450?random=20",
+    "authors": [
+      {
+        "name": "Sarah Lee",
+        "avatar": "/static/images/avatar/8.jpg"
+      }
+    ],
+    "abstract": "A detailed guide on Leveraging GraphQL for Modern Apps.",
+    "body": "\n        # Introduction\n\n        This is a sample article discussing key concepts in the topic.\n\n        ## Key Takeaways\n        - Point 1\n        - Point 2\n        - Point 3\n\n        ```python\n        # Sample Python Code\n        def hello_world():\n            print(\"Hello, world!\")\n        ```\n\n        ## Conclusion\n\n        Final thoughts on this subject.\n        "
+  }
+]
